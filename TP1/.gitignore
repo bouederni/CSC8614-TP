@@ -4,8 +4,6 @@ __pycache__/
 
 # Environnements virtuels
 venv/
-.env/
-.venv/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -21,10 +19,6 @@ Thumbs.db
 *.tmp
 *.bak
 *.swp
-
-# Données volumineuses (si non demandées)
-data/
-datasets/
 
 # Modèles entraînés
 *.pt
