@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+
+# Données volumineuses (si non demandées)
+data/
+datasets/
+
+# Modèles entraînés
+*.pt
+*.pth
+*.ckpt
