@@ -1,6 +1,0 @@
-torch==2.9.0
-transformers==4.57.5
-scikit-learn==1.8.0
-plotly==6.5.2
-numpy==2.4.1
-pandas==2.3.3

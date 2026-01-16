@@ -19,7 +19,7 @@ def func_2b():
         txt = tokenizer.decode([tid])
         print(tid, repr(txt))
 
-def func_2c():
+def func_2d():
     tokens2 = tokenizer.tokenize(phrase2)
     words = phrase2.split()
     long_word = max(words, key=len)
@@ -31,8 +31,4 @@ def func_2c():
     print("\nTokens du mot le plus long : " + str(long_word_tokens))
     print("\nNombre de tokens du mot le plus long : " + str(len(long_word_tokens)))
 
-
-
-
-
-func_2c()
+func_2d()
