@@ -4,6 +4,7 @@ __pycache__/
 
 # Environnements virtuels
 venv/
+.venv/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -21,6 +22,6 @@ Thumbs.db
 *.swp
 
 # Modèles entraînés
-*.pt
-*.pth
-*.ckpt
+*.pt*
+*.pth*
+*.ckpt*
