@@ -17,6 +17,7 @@ matplotlib==3.10.8
 tensorflow==2.20.0
 jupyterlab==4.5.1
 ```
+Python 3.12.3
 
 # Question 2
 L'objet `setting` est un dictionnaire avec des clés à l'intérieur qui sont des entiers décrivant l'architecture : 
