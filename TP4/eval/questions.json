@@ -1,0 +1,53 @@
+[
+  {
+    "id": "q1",
+    "question": "Quels sont les sujets de PFE supplémentaires proposés par Luca Benedetto ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q2",
+    "question": "Comment valider une UE ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q3",
+    "question": "Quand se dérouleront les soutenances pour la matière ENV 5001 ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q4",
+    "question": "Quelles sont les modalités du programme TANDEM ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q5",
+    "question": "Où trouver des informations sur la bourse Erasmus+ ?",
+    "expected_doc_type": "email"
+  },
+  {
+    "id": "q6",
+    "question": "Comment intégrer Télécom Sudparis en 2ème année de cycle Ingénieur par apprentissage ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q7",
+    "question": "Quelles matières peut-on retrouver dans les concours d'entrée à Télécom SudParis ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q8",
+    "question": "Donner un résumé des règles à respecter quant à l'utilisation de l'IA à Télécom SudParis.",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q9",
+    "question": "Quelles différences principales y a t-il entre les différents types d'admissions à Télécom SudParis ?",
+    "expected_doc_type": "admin_pdf"
+  },
+  {
+    "id": "q10",
+    "question": "Comment être admis en VAE à Télécom SudParis ?",
+    "expected_doc_type": "admin_pdf"
+  }
+]
+  
